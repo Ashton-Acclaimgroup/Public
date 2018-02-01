@@ -10,6 +10,7 @@ uses
 type
   TForm3 = class(TForm)
     Label1: TLabel;
+    Button1: TButton;
   private
     { Private declarations }
   public
